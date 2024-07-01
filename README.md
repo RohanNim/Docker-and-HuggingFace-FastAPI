@@ -9,6 +9,8 @@ Dockerization of the FastAPI application ensures consistency and ease of deploym
 
 ![Screenshot 2024-07-01 095037](https://github.com/RohanNim/Docker-and-HuggingFace-FastAPI/assets/130341019/98fb894a-7293-4e76-a1dd-8952e97832a8)
 
+![Screenshot 2024-07-01 094257](https://github.com/RohanNim/Docker-and-HuggingFace-FastAPI/assets/130341019/683ac2e2-a4bd-42cc-a5fe-d92fd880cfa7)
+
 
 ![Screenshot 2024-07-01 102910](https://github.com/RohanNim/Docker-and-HuggingFace-FastAPI/assets/130341019/009f2bd5-b116-487a-8cac-a9aedf3716df)
 
